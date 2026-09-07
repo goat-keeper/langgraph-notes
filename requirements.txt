@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+python-dotenv
+langchain-ollama
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+langchain-tavily
